@@ -3,6 +3,7 @@
 /**
  * binary_tree_node - create node
  * @parent: pointer
+ * @value: value
  * Return: pointer
  */
 
